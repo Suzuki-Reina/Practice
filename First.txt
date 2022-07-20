@@ -1,1 +1,6 @@
 これからやること
+Statusを確認しながら
+add
+commit
+push
+をする
